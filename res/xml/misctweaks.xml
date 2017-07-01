@@ -40,6 +40,12 @@
             android:title="@string/toast_icon_title"
             android:summary="@string/toast_icon_summary"
             android:defaultValue="false" />
+		
+        <com.abc.settings.preferences.SystemSettingSwitchPreference
+            android:key="double_tap_wake_doze"
+            android:title="@string/double_tap_wake_doze_title"
+            android:summary="@string/double_tap_wake_doze_summary"
+            android:defaultValue="true" />		
 
         <ListPreference
             android:key="pref_scrollingcache"
