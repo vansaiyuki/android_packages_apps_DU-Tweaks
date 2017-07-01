@@ -785,5 +785,9 @@
     <!-- No navigation notification -->
     <string name="no_navigation_notif_title">No navigation method reminder</string>
     <string name="no_navigation_notif_summary">Show a notification when there\'s no navigation method enabled</string>
+	
+	<!-- Double Tap Wake Doze -->
+	<string name="double_tap_wake_doze_title">Double-tap to wake on doze</string>
+    <string name="double_tap_wake_doze_summary">Require a double-tap to wake the device on a doze pulse screen</string>
 
 </resources>
